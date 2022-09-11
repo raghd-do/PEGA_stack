@@ -8,7 +8,7 @@ The team at SDA is tasked to create a website to fulfill the requirements of the
 |Property|Low Code Development|Traditional Development|
 |:---| :---: | :---: |
 |**Project Brief**|developing software applications using a graphical user interface| developing software applications using manual coding|
-|**Tools**|Rapid application development tools such as *Mendix* and *PEGA*|Web frameworks and programming languages|
+|**Tools**|Rapid application development tools such as *OutSystems* and *PEGA*|Web frameworks and programming languages|
 |**Coding Knowledge**|Minimum/basic coding knowledge required|advanced coding skills and knowledge|
 |**Speed of Development**|rapid development in just 1-3 weeks|may take 2-8 months|
 |**Customization**|very limited customization|can be tailored to meet your specific requirements|
