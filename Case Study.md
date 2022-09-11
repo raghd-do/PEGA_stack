@@ -16,3 +16,5 @@ The team at SDA is tasked to create a website to fulfill the requirements of the
 |**Deployment**|fast But limited platforms,  Depending on the low code tools you are using|free to deploy to any and all platforms|
 |**Quality**| - Integrability is limited - Scalability is limited - Performance and speed is standard - With live debugging, the app is error-free| - Integrable with all systems - High scalability - Performance and speed is extremely high - Testing and debugging requires time|
 |**Maintenance**|easy and fast update|tough to regularly update and maintain|
+
+resource: [Which Method to Use – Low Code vs Traditional Development?](https://www.monocubed.com/blog/low-code-vs-traditional-development/)
