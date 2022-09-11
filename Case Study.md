@@ -8,11 +8,21 @@ The team at SDA is tasked to create a website to fulfill the requirements of the
 |Property|Low Code Development|Traditional Development|
 |:---| :---: | :---: |
 |**Project Brief**|developing software applications using a graphical user interface| developing software applications using manual coding|
-|**Tools**|||
-|**Coding Knowledge**|||
-|**Speed of Development**|||
-|**Customization**|||
-|**Agility**|||
-|**Deployment**|||
-|**Quality**|||
+|**Tools**|Rapid application development tools such as *Mendix* and *PEGA*|Web frameworks and programming languages|
+|**Coding Knowledge**|Minimum/basic coding knowledge required|advanced coding skills and knowledge|
+|**Speed of Development**|rapid development in just 1-3 weeks|may take 2-8 months|
+|**Customization**|very limited customization|can be tailored to meet your specific requirements|
+|**Agility**|more agile because you can make changes quickly|changes can be slow, But it can be agile|
+|**Deployment**|fast But limited platforms,  Depending on the low code tools you are using|free to deploy to any and all platforms|
+|**Quality**|
+- Integrability is limited 
+- Scalability is limited 
+- Performance and speed is standard
+- With live debugging, the app is error-free
+|
+- Integrable with all systems
+- High scalability
+- Performance and speed is extremely high
+- Testing and debugging requires time
+|
 |**Maintenance**|||
