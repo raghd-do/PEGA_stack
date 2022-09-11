@@ -23,4 +23,4 @@ or in case a candidate was not qualified then a rejection email gets sent
 In case a candidate was not qualified then a rejection email gets sent
 
 ### Bonus: Use BPMN technique create the business process for the case study
-[img_4286a-350x233](https://raw.githubusercontent.com/raghd-do/PEGA_stack/master/BPMN.jpg)
+![img_4286a-350x233](https://raw.githubusercontent.com/raghd-do/PEGA_stack/master/BPMN.jpg)
